@@ -10,12 +10,6 @@ repository:
   branch: stable
 html:
   favicon: img/favicon.png
-  analytics:
-    plausible_analytics_domain: dtcglaciers.org
-    plausible_analytics_url: https://plausible.oggm.org/js/script.js
-  # use_repository_button: true
-  # use_issues_button: true
-  # use_edit_page_button: true
   # extra_css:
   #   - _static/custom.css
   extra_footer: |
@@ -44,6 +38,9 @@ sphinx:
       footer_start: ["license"]
       footer_center: []
       footer_end: ["author"]
+      analytics:
+        plausible_analytics_domain: dtcglaciers.org
+        plausible_analytics_url: https://plausible.oggm.org/js/script.js
       icon_links:
         - name: GitHub,
           url: https://github.com/DTC-Glaciers
