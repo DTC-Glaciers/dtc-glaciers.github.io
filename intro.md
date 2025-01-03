@@ -27,7 +27,7 @@ The **DTC-Glaciers project** is part of the European Space Agency’s **Digital 
 Using Earth observation data, in-situ measurements, and advanced modeling techniques, DTC-Glaciers aims to create an interactive digital representation of mountain glaciers over the past two decades. This open and interactive platform will enable users and stakeholders to explore and understand the rapid transformations of mountain glaciers and their water resources.
 
 :::{note}
-This project has just begun! Check back regularly for updates as we make progress.
+This project has just started! Check back for updates soon.
 :::
 
 # <h2>Use cases</h2>
@@ -129,4 +129,4 @@ DTC-Glaciers will prototype a suite of tools and services to support the monitor
 
 - Project lead: [Fabien Maussion](https://fabienmaussion.info)
 - Project management: [Earthwave](https://earthwave.co.uk/)
-- ESA Digital Twin Earth: [dte.esa.int](https://dte.esa.int)
+- ESA Digital Twin Earth initiative: [dte.esa.int](https://dte.esa.int)
