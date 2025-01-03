@@ -32,11 +32,11 @@ This project has just started! Check back for updates soon.
 
 # <h2>Use cases</h2>
 
-DTC-Glaciers will prototype a suite of tools and services to support the monitoring and management of mountain glaciers and their water resources. During this preliminary phase, we will focus on the following use cases:
+DTC-Glaciers will prototype a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
 
 {octicon}`graph` **Glacier runoff monitoring**: targeting glaciers in Iceland and the Austrian Alps, DTC-Glaciers will deliver daily glacier runoff estimates with unprecedented accuracy. This information is crucial for water resource management, hydropower production, and flood risk assessment.
 
-{octicon}`people` **User interaction and feedback**: designed with stakeholders in mind, the platform will allow hydrologists, glaciologists, and water resource managers to inform the twin with new observations and recent events. This should be possible through a user-friendly interface, enabling the platform to learn and improve over time.
+{octicon}`people` **User interaction and feedback**: designed with our stakeholders, the platform will allow hydrologists, glaciologists, and water resource managers to inform the twin with new observations and recent events. This should be possible through a user-friendly interface, enabling the platform to learn and improve over time.
 
 ## Consortium
 
