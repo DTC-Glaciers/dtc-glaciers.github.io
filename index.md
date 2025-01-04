@@ -35,7 +35,7 @@ Get in touch
 
 # DTC-Glaciers
 
-The **DTC-Glaciers project** is developed under the European Space Agency's **Digital Twin Components (DTC) "Early" Development Actions**, under the broader **Digital Twin Earth** initiative.
+The **DTC-Glaciers project** is developed as a **Digital Twin Component (DTC) "Early" Development Action**, under the the European Space Agency's **Digital Twin Earth** initiative.
 
 By leveraging Earth Observation (EO) data, in-situ measurements, and advanced modeling techniques, DTC-Glaciers aims to create a dynamic digital representation of mountain glaciers spanning the past two decades. The digital twin will be designed to be *explored*, *interrogated*, and *adapted* in response to real-world events, new observations, and evolving scenarios. This open and interactive platform will empower users and stakeholders to better understand the rapid changes in mountain glaciers and take informed action to address these transformations effectively.
 
@@ -48,10 +48,10 @@ This project has just started! Check back for updates soon.
 DTC-Glaciers will develop a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
 
 {octicon}`graph` **Glacier runoff monitoring**
-: Targeting glaciers in Iceland and the Austrian Alps, DTC-Glaciers will deliver daily glacier runoff estimates with unprecedented accuracy. This information is crucial for water resource management, hydropower production, and flood risk assessment.
+: Targeting glaciers in Iceland and the Austrian Alps, DTC-Glaciers will deliver daily glacier runoff estimates including their uncertainty. This information is crucial for water resource management, hydropower production, and flood risk assessment.
 
 {octicon}`people` **User interaction and feedback**
-: Co-designed with our stakeholders, the platform will allow hydrologists, glaciologists, and water resource managers to inform the twin with new observations and recent events. This should be possible through a user-friendly interface, enabling the platform to learn and improve over time.
+: Co-designed with our stakeholders, the platform will allow hydrologists, glaciologists, and water resource managers to explore available datasets. They will also be able to inform the twin with new observations and recent events, enabling the platform to learn and improve over time.
 
 ## Consortium
 
@@ -140,7 +140,7 @@ DTC-Glaciers will develop a suite of tools and services to support the monitorin
 
 ## Stakeholders
 
-Our **key stakeholders** are the National Power Company of Iceland [Landvirkjun](https://www.landsvirkjun.com/) and the [Austrian Hydrological Service](https://www.tirol.gv.at/umwelt/wasserwirtschaft/wasserkreislauf/hydro-online). We area also assembling a wider group of stakeholders from the scientific community, water resource managers, and policy to ensure that DTCG-Glaciers meets the needs of its users.
+Our **key stakeholders** are the National Power Company of Iceland [Landvirkjun](https://www.landsvirkjun.com/) and the [Austrian Hydrological Service](https://www.tirol.gv.at/umwelt/wasserwirtschaft/wasserkreislauf/hydro-online). We are also assembling a wider group of stakeholders from the scientific community, water resource managers, and policy to ensure that DTC-Glaciers meets the needs of a wide range of users.
 
 (contact)=
 ## Contact
@@ -148,5 +148,5 @@ Our **key stakeholders** are the National Power Company of Iceland [Landvirkjun]
 For more information about the DTC-Glaciers project or if you would like to be informed about its future developments, please contact the project lead, [Fabien Maussion](https://fabienmaussion.info). We are always looking for new partners and collaborators to join us on this exciting journey!
 
 - Project lead: [Fabien Maussion](https://fabienmaussion.info)
-- Project management: [Earthwave](https://earthwave.co.uk/)
+- Project management: [Earthwave](https://earthwave.co.uk)
 - ESA Digital Twin Earth initiative: [dte.esa.int](https://dte.esa.int)
