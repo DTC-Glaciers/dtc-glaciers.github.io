@@ -22,16 +22,16 @@ parse:
     # including those that are enabled by default!
     # https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
     - deflist
-        # - amsmath
     - colon_fence
-    - dollarmath
+    # - amsmath
+    # - dollarmath
     # - html_admonition
     # - html_image
     - linkify
     # - replacements
     # - smartquotes
-    - substitution
-    - tasklist
+    # - substitution
+    # - tasklist
 sphinx:
   config:
     html_show_copyright: false
