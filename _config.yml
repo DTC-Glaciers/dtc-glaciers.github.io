@@ -10,12 +10,28 @@ repository:
   branch: stable
 html:
   favicon: img/favicon.png
-  # extra_css:
-  #   - _static/custom.css
+  extra_css:
+    - _static/custom.css
   extra_footer: |
     <p>
     &copy; Copyright 2024-2025. These materials are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY license</a>.
     </p>
+parse:
+  myst_enable_extensions:
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default!
+    # https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    - deflist
+        # - amsmath
+    - colon_fence
+    - dollarmath
+    # - html_admonition
+    # - html_image
+    - linkify
+    # - replacements
+    # - smartquotes
+    - substitution
+    - tasklist
 sphinx:
   config:
     html_show_copyright: false
@@ -31,6 +47,8 @@ sphinx:
     html_theme: pydata_sphinx_theme
     html_sidebars:  # Removes the sidebar for the index page
       index: []
+      team: []
+      privacy: []
     html_show_copyright: false
     html_theme_options:
       secondary_sidebar_items: []
@@ -38,11 +56,13 @@ sphinx:
       footer_start: ["license"]
       footer_center: []
       footer_end: ["author"]
+      show_prev_next: False
+      navbar_align: right
       analytics:
         plausible_analytics_domain: dtcglaciers.org
         plausible_analytics_url: https://plausible.oggm.org/js/script.js
       icon_links:
-        - name: GitHub,
+        - name: GitHub
           url: https://github.com/DTC-Glaciers
           icon: "fa-brands fa-github"
           type: fontawesome
