@@ -12,10 +12,6 @@ html:
   favicon: img/favicon.png
   extra_css:
     - _static/custom.css
-  extra_footer: |
-    <p>
-    &copy; Copyright 2024-2025. These materials are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY license</a>.
-    </p>
 parse:
   myst_enable_extensions:
     # don't forget to list any other extensions you want enabled,

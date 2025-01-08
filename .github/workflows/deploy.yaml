@@ -30,6 +30,7 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build .
+        cp img/dtcg_dalle.jpg _build/html/_images/dtcg_dalle.jpg
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact

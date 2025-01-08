@@ -9,7 +9,10 @@ title: A Digital Twin Component for Glaciers
 :columns: 4
 :class: sd-m-auto
 
-![DTC-Glaciers](img/dtcg_dalle.jpg)
+```{image} img/dtcg_dalle_small.jpg
+:alt: DTC-Glaciers image
+:target: _images/dtcg_dalle.jpg
+```
 
 :::
 
