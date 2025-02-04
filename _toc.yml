@@ -4,5 +4,9 @@
 format: jb-book
 root: index
 chapters:
+  - url: https://notebooks.dtcglaciers.org
+    title: Notebooks
+  - url: https://hub.dtcglaciers.org
+    title: JupyterHub
   - file: team
   - file: privacy

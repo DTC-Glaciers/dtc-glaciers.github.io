@@ -32,8 +32,6 @@ Get in touch
 
 :::
 
-
-
 ::::
 
 # DTC-Glaciers
@@ -53,7 +51,7 @@ DTC-Glaciers will develop a suite of tools and services to support the monitorin
 {octicon}`graph` **Glacier runoff monitoring**
 : Targeting glaciers in Iceland and the Austrian Alps, DTC-Glaciers will deliver daily glacier runoff estimates including their uncertainty. This information is crucial for water resource management, hydropower production, and flood risk assessment.
 
-{octicon}`people` **User interaction and feedback**
+{octicon}`people` **User interaction and user-informed scenarios**
 : Co-designed with our stakeholders, the platform will allow hydrologists, glaciologists, and water resource managers to explore available datasets. They will also be able to inform the twin with new observations and recent events, enabling the platform to learn and improve over time.
 
 ## Consortium
