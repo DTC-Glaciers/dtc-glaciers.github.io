@@ -40,10 +40,6 @@ The **DTC-Glaciers project** is developed under the European Space Agency's **Di
 
 Leveraging the latest Earth Observation (EO) data, in-situ measurements, and advanced modeling techniques, DTC-Glaciers aims to create a dynamic digital representation of mountain glaciers. The digital twin will be designed to be *explored*, *interrogated*, and *informed* in response to real-world events, new observations, and evolving scenarios. This open and interactive platform will empower users and stakeholders to better understand the rapid changes in mountain glaciers and take informed action to address these challenges effectively.
 
-:::{note}
-This project has just started! Check back for updates soon.
-:::
-
 ## Use cases
 
 DTC-Glaciers will develop a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
