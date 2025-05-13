@@ -3,7 +3,7 @@
 title: A Digital Twin Components for Glaciers  # The title of the book. Will be placed in the left navbar.
 author: DTC-Glaciers consortium  # The author of the book
 copyright: "2024-2025"  # Copyright year to be placed in the footer
-logo: img/ESA_logo.svg  # A path to the book logo
+logo: img/dtc_logo.png  # A path to the book logo
 repository:
   url: https://github.com/DTC-Glaciers/dtc-glaciers.github.io
   path_to_book: .

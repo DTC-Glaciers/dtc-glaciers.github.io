@@ -26,7 +26,6 @@ A Digital Twin Component for Glaciers
 :color: primary
 :class: sd-rounded-pill float-left
 
-
 Get in touch
 ```
 
@@ -39,6 +38,7 @@ Get in touch
 The **DTC-Glaciers project** is developed under the European Space Agency's **Digital Twin Earth** initiative, as part of the **Digital Twin Components (DTC) Early Development Actions**.
 
 Leveraging the latest Earth Observation (EO) data, in-situ measurements, and advanced modeling techniques, DTC-Glaciers aims to create a dynamic digital representation of mountain glaciers. The digital twin will be designed to be *explored*, *interrogated*, and *informed* in response to real-world events, new observations, and evolving scenarios. This open and interactive platform will empower users and stakeholders to better understand the rapid changes in mountain glaciers and take informed action to address these challenges effectively.
+
 
 ## Use cases
 
@@ -134,6 +134,14 @@ DTC-Glaciers will develop a suite of tools and services to support the monitorin
 :::
 
 ::::
+
+## Funding
+
+```{image} img/esa-logo-png.png
+:alt: ESA logo
+:height: 80
+:target: https://www.esa.int/Applications/Observing_the_Earth/ESA_s_Digital_Twin_Earth_programme_building_a_virtual_model_for_a_changing_planet
+```
 
 ## Stakeholders
 
