@@ -10,7 +10,7 @@ title: A Digital Twin Component for Glaciers
 :class: sd-m-auto
 
 ```{image} img/dtcg_dalle_small.jpg
-:alt: DTC-Glaciers image
+:alt: DTC Glaciers image
 :target: _images/dtcg_dalle.jpg
 ```
 
@@ -33,19 +33,19 @@ Get in touch
 
 ::::
 
-# DTC-Glaciers
+# DTC Glaciers
 
-The **DTC-Glaciers project** is developed under the European Space Agency's **Digital Twin Earth** initiative, as part of the **Digital Twin Components (DTC) Early Development Actions**.
+The **DTC Glaciers project** is developed under the European Space Agency's **Digital Twin Earth** initiative, as part of the **Digital Twin Components (DTC) Early Development Actions**.
 
-Leveraging the latest Earth Observation (EO) data, in-situ measurements, and advanced modeling techniques, DTC-Glaciers aims to create a dynamic digital representation of mountain glaciers. The digital twin will be designed to be *explored*, *interrogated*, and *informed* in response to real-world events, new observations, and evolving scenarios. This open and interactive platform will empower users and stakeholders to better understand the rapid changes in mountain glaciers and take informed action to address these challenges effectively.
+Leveraging the latest Earth Observation (EO) data, in-situ measurements, and advanced modeling techniques, DTC Glaciers aims to create a dynamic digital representation of mountain glaciers. The digital twin will be designed to be *explored*, *interrogated*, and *informed* in response to real-world events, new observations, and evolving scenarios. This open and interactive platform will empower users and stakeholders to better understand the rapid changes in mountain glaciers and take informed action to address these challenges effectively.
 
 
 ## Use cases
 
-DTC-Glaciers will develop a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
+DTC Glaciers will develop a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
 
 {octicon}`graph` **Glacier runoff monitoring**
-: Targeting glaciers in Iceland and the Austrian Alps, DTC-Glaciers will deliver daily glacier runoff estimates including their uncertainty. This information is crucial for water resource management, hydropower production, and flood risk assessment.
+: Targeting glaciers in Iceland and the Austrian Alps, DTC Glaciers will deliver daily glacier runoff estimates including their uncertainty. This information is crucial for water resource management, hydropower production, and flood risk assessment.
 
 {octicon}`people` **User interaction and user-informed scenarios**
 : Co-designed with our stakeholders, the platform will allow hydrologists, glaciologists, and water resource managers to explore available datasets. They will also be able to inform the twin with new observations and recent events, enabling the platform to learn and improve over time.
@@ -145,12 +145,12 @@ DTC-Glaciers will develop a suite of tools and services to support the monitorin
 
 ## Stakeholders
 
-Our **key stakeholders** are the National Power Company of Iceland [Landsvirkjun](https://www.landsvirkjun.com/) and the [Tyrolean Hydrological Service](https://www.tirol.gv.at/umwelt/wasserwirtschaft/wasserkreislauf/hydro-online). We are also relying on a wider group of stakeholders from the scientific community, water resource managers, and policy to ensure that DTC-Glaciers meets the needs of a wide range of users.
+Our **key stakeholders** are the National Power Company of Iceland [Landsvirkjun](https://www.landsvirkjun.com/) and the [Tyrolean Hydrological Service](https://www.tirol.gv.at/umwelt/wasserwirtschaft/wasserkreislauf/hydro-online). We are also relying on a wider group of stakeholders from the scientific community, water resource managers, and policy to ensure that DTC Glaciers meets the needs of a wide range of users.
 
 (contact)=
 ## Contact
 
-For more information about the DTC-Glaciers project or if you would like to be informed about its future developments, please contact the project lead, [Fabien Maussion](https://fabienmaussion.info). We are always looking for new partners and collaborators to join us on this exciting journey!
+For more information about the DTC Glaciers project or if you would like to be informed about its future developments, please contact the project lead, [Fabien Maussion](https://fabienmaussion.info). We are always looking for new partners and collaborators to join us on this exciting journey!
 
 - Project lead: [Fabien Maussion](https://fabienmaussion.info)
 - Project management: [Earthwave](https://earthwave.co.uk)
