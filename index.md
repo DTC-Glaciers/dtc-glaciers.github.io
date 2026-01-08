@@ -39,16 +39,32 @@ The **DTC Glaciers project** is developed under the European Space Agency's **Di
 
 Leveraging the latest Earth Observation (EO) data, in-situ measurements, and advanced modeling techniques, DTC Glaciers aims to create a dynamic digital representation of mountain glaciers. The digital twin will be designed to be *explored*, *interrogated*, and *informed* in response to real-world events, new observations, and evolving scenarios. This open and interactive platform will empower users and stakeholders to better understand the rapid changes in mountain glaciers and take informed action to address these challenges effectively.
 
+```{admonition} Pilot phase completed
+The first phase of the DTC Glaciers project concluded in January 2026, delivering the core building blocks of an open digital twin for glaciers. We invite you to explore the notebooks and demonstrations presented here, which showcase the potential of DTC Glaciers to support understanding and action in a rapidly changing cryosphere.
+```
 
 ## Use cases
 
-DTC Glaciers will develop a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
+DTC Glaciers develops a suite of tools and services to support the monitoring of mountain glaciers and the management of their water resources. During this prototyping phase, we will focus on the following use cases:
 
 {octicon}`graph` **Glacier runoff monitoring**
-: Targeting glaciers in Iceland and the Austrian Alps, DTC Glaciers will deliver daily glacier runoff estimates including their uncertainty. This information is crucial for water resource management, hydropower production, and flood risk assessment.
+: Targeting glaciers in Iceland and the Austrian Alps, DTC Glaciers provides daily glacier mass balance and runoff estimates including their uncertainty. This information is crucial for water resource management, hydropower production, and flood risk assessment.
 
 {octicon}`people` **User interaction and user-informed scenarios**
-: Co-designed with our stakeholders, the platform will allow hydrologists, glaciologists, and water resource managers to explore available datasets. They will also be able to inform the twin with new observations and recent events, enabling the platform to learn and improve over time.
+: Co-designed with our stakeholders, the platform allows hydrologists, glaciologists, and water resource managers to explore available datasets. They are also able to inform the twin with new observations and recent events, enabling the platform to learn and improve over time.
+
+## Tools
+
+DTC Glaciers provides several **interfaces** to explore, interact with, and build upon the digital twin:
+
+**[Notebooks](https://notebooks.dtcglaciers.org)**
+: A curated collection of Jupyter notebooks documenting the methods, datasets, and use cases developed in the project.
+
+**[JupyterHub](https://hub.dtcglaciers.org)**
+: A shared cloud-based computing environment that allows users to run the notebooks and access the twin without local installation.
+
+**[Dashboard](https://bokeh.oggm.org/dtcgweb)**
+: A web-based visual interface providing intuitive access to key indicators such as glacier mass balance and runoff.
 
 ## Consortium
 
