@@ -57,6 +57,9 @@ DTC Glaciers develops a suite of tools and services to support the monitoring of
 
 DTC Glaciers provides several **interfaces** to explore, interact with, and build upon the digital twin:
 
+**[DEA Story](https://dea.destine.eu/web/stories/viewer/684039a1b62b202b54ee0271)**
+: An interactive slide deck illustrating how DTC Glaciers could be used to inform hydropower outlook
+
 **[Notebooks](https://notebooks.dtcglaciers.org)**
 : A curated collection of Jupyter notebooks documenting the methods, datasets, and use cases developed in the project.
 

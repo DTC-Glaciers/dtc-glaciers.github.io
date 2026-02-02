@@ -4,6 +4,8 @@
 format: jb-book
 root: index
 chapters:
+  - url: https://dea.destine.eu/web/stories/viewer/684039a1b62b202b54ee0271
+    title: DEA Story
   - url: https://notebooks.dtcglaciers.org
     title: Notebooks
   - url: https://hub.dtcglaciers.org
