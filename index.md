@@ -66,7 +66,7 @@ DTC Glaciers provides several **interfaces** to explore, interact with, and buil
 **[JupyterHub](https://hub.dtcglaciers.org)**
 : A shared cloud-based computing environment that allows users to run the notebooks and access the twin without local installation.
 
-**[Dashboard](https://bokeh.oggm.org/dtcgweb)**
+**[Dashboard](https://bokeh.oggm.org/dtcgboard)**
 : A web-based visual interface providing intuitive access to key indicators such as glacier mass balance and runoff.
 
 ## Consortium
