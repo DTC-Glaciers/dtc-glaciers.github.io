@@ -10,7 +10,7 @@ chapters:
     title: Notebooks
   - url: https://hub.dtcglaciers.org
     title: JupyterHub
-  - url: https://bokeh.oggm.org/dtcgweb
+  - url: https://bokeh.oggm.org/dtcgboard
     title: Dashboard
   - file: team
   - file: privacy
